@@ -1,0 +1,8 @@
+html {  
+  background-color: #fff !important;
+  filter: invert(1) hue-rotate(180deg)
+}
+
+img, picture, video {
+  filter: invert(1) hue-rotate(0)
+}
